@@ -45,6 +45,7 @@ INSTALLED_APPS = (
     'invent',
     'purchase',
     'sale',
+	'bootstrap3'
 )
 
 MIDDLEWARE_CLASSES = (
